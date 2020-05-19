@@ -13,4 +13,4 @@ You should have received a copy of the GNU General Public License along with thi
 [了解更多关于SB-BBS的内容](https://www.v2ex.com/t/636258)
 
 ## 预览地址 Preview
-[访问->SB-BBS<-](https://yinjian.site/)
+[访问->SB-BBS<-](https://yinjian.site/) 已暂停预览
